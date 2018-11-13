@@ -1,2 +1,2 @@
 # Bootstrap Form
-[link](ivankvitka.github.io/BootstrapForm)
+[link](https://ivankvitka.github.io/BootstrapForm)
